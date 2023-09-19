@@ -1,2 +1,5 @@
-# node-ip-country-client
-A server built with Node.js that retrieves user's IP address and country information.
+# Node.js IP and Country Information Server
+
+- This is a simple Node.js server that retrieves the user's IP address and country information.
+
+- C++
